@@ -1,14 +1,11 @@
 <template>
-  <div>
-    Analysis
-  </div>
+  <div>Analysis</div>
 </template>
 
 <script>
 export default {
-  name: "AnalysisPart"
+  name: "AnalysisPart",
 };
 </script>
 <style scoped>
-
 </style>
